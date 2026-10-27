@@ -1,5 +1,18 @@
-﻿.env
-service-account.json
+﻿# Android and Gradle
+.gradle/
+**/build/
+local.properties
+.idea/
+*.iml
+captures/
+.kotlin/
+
+# Python
 .venv/
+venv/
 __pycache__/
-*.pyc
+*.py[cod]
+.env
+**/.env
+
+# IDE and temporary files
