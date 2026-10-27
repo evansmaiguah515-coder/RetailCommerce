@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "720663002826",
+    "project_id": "retailcommerce-b70d2",
+    "storage_bucket": "retailcommerce-b70d2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:720663002826:android:c0a84f8320813f55793e33",
+        "android_client_info": {
+          "package_name": "com.example.retailcommerce"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAgbx03uh4fI236PlgrzS_5gKx91d1Guc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
