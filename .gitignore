@@ -16,3 +16,7 @@ __pycache__/
 **/.env
 
 # IDE and temporary files
+
+# Private service-account credentials
+backend/service-account.json
+*service-account*.json
